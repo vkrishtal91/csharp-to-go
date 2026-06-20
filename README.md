@@ -139,6 +139,14 @@
 
 **Главы:** [Обработка ошибок](docs/14-errors-testing/01-error-handling.md) · [defer, panic и recover](docs/14-errors-testing/02-defer-panic-recover.md) · [Тестирование](docs/14-errors-testing/03-testing.md) · [Моки и Testcontainers](docs/14-errors-testing/04-mocks-testcontainers.md) · [Сравнение с .NET](docs/14-errors-testing/05-comparison-with-dotnet.md)
 
+### [Бонус. Настройка окружения для разработки](docs/bonus-dev-environment/README.md)
+
+* Общая основа тулчейна: `gopls` (язык-сервер), `dlv` (Delve), `golangci-lint`, `gofumpt`.
+* **VS Code** (основной упор): расширение `golang.go`, полезные `settings.json`, отдельный профиль, отладка через `launch.json` — включая удалённую в Docker.
+* **Zed**: `gopls`, настройки, DAP-отладка через Delve.
+
+**Главы:** [VS Code для Go](docs/bonus-dev-environment/01-vscode.md) · [Zed для Go](docs/bonus-dev-environment/02-zed.md)
+
 ---
 
 *Материалы будут дополняться. Если вы нашли ошибку или хотите дополнить руководство — Pull Requests приветствуются!*
