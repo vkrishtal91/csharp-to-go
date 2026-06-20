@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+**/.DS_Store
+
+# Node-зависимости и кэши сборки PDF
+node_modules/
+scripts/node_modules/
+scripts/.cache/
+scripts/book.html
+
+# Локальная страница автора — НЕ попадает в репозиторий,
+# но добавляется в локально собранный PDF (см. scripts/build-pdf.js)
+author.md
+
+# Собранный PDF (пересобираемый артефакт; заодно держит страницу автора вне git)
+csharp-to-go.pdf

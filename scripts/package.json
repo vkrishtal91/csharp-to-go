@@ -1,0 +1,16 @@
+{
+  "name": "csharp-to-go-pdf-builder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Сборка единого PDF из markdown-учебника «От .NET к Go» (markdown-it + highlight.js + mermaid + Paged.js через headless Chrome).",
+  "scripts": {
+    "build": "node build-pdf.js"
+  },
+  "dependencies": {
+    "highlight.js": "^11.11.1",
+    "markdown-it": "^14.2.0",
+    "mermaid": "^11.15.0",
+    "pagedjs": "^0.4.3",
+    "puppeteer-core": "^25.1.0"
+  }
+}
