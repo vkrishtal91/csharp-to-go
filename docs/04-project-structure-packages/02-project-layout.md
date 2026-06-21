@@ -156,4 +156,4 @@ go build ./cmd/...   # соберёт все три бинаря
 
 ---
 
-[⌂ Главная](../../README.md) · [↑ Раздел](./README.md) · [← Предыдущий: Обзор раздела](./README.md) · [→ Следующий: Пакеты и видимость](./02-packages-and-visibility.md)
+[⌂ Главная](../../README.md) · [↑ Раздел](./README.md) · [← Предыдущий: Модули и пакеты](./01-modules-and-packages.md) · [→ Следующий: Пакеты и видимость](./03-packages-and-visibility.md)

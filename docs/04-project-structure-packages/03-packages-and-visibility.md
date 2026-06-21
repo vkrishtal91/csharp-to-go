@@ -200,4 +200,4 @@ func Reverse(s string) string { ... }        // вызов: textutil.Reverse —
 
 ---
 
-[⌂ Главная](../../README.md) · [↑ Раздел](./README.md) · [← Предыдущий: Структура проекта](./01-project-layout.md) · [→ Следующий: Зависимости и go-модули](./03-dependencies-go-modules.md)
+[⌂ Главная](../../README.md) · [↑ Раздел](./README.md) · [← Предыдущий: Структура проекта](./02-project-layout.md) · [→ Следующий: Зависимости и go-модули](./04-dependencies-go-modules.md)

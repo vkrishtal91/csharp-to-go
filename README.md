@@ -50,7 +50,7 @@
 * Управление зависимостями: `go.mod` и `go.sum`. Запрет на циклические импорты (Cyclic Imports).
 * **Сравнение с .NET:** Жизнь без `.sln` и `.csproj`. Модификаторы доступа (`public`/`private`) против регистра букв. NuGet против `go get`.
 
-**Главы:** [Структура проекта](docs/04-project-structure-packages/01-project-layout.md) · [Пакеты и видимость](docs/04-project-structure-packages/02-packages-and-visibility.md) · [Зависимости и go-модули](docs/04-project-structure-packages/03-dependencies-go-modules.md) · [Сравнение с .NET](docs/04-project-structure-packages/04-comparison-with-dotnet.md)
+**Главы:** [Модули и пакеты](docs/04-project-structure-packages/01-modules-and-packages.md) · [Структура проекта](docs/04-project-structure-packages/02-project-layout.md) · [Пакеты и видимость](docs/04-project-structure-packages/03-packages-and-visibility.md) · [Зависимости и go-модули](docs/04-project-structure-packages/04-dependencies-go-modules.md) · [Воркспейсы (go.work)](docs/04-project-structure-packages/05-workspaces.md) · [Сравнение с .NET](docs/04-project-structure-packages/06-comparison-with-dotnet.md)
 
 ### [Раздел 5. Архитектура, DI и Конфигурации](docs/05-architecture-di-config/README.md)
 
